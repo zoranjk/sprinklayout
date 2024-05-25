@@ -1,12 +1,18 @@
 farmland csv schema
 
+w = water
+s = soil
+g = grass
+b = buildings
+
+
 types of land
 
-0 = unusable
-
-1 = tillable
-
-2 = placeable (can't farm but can place scarecrows and sprinklers)
-
-
-
+u = unusable
+t = tillable
+b = buildable
+s = sprinkler
+k = scarecrow
+w = watered
+p = protected
+c = crop
